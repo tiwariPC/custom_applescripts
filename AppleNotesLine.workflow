@@ -1,6 +1,6 @@
 ## Use Automator app to create a Quick Action.
 ## Choose Run AppleScript from sidebar
-## ## Workflow receives no input in {Notes.app}
+## Workflow receives no input in {Notes.app}
 ## Input is entire selection Output replaces selected text
 ## Image {©Action}
 ## Colour {Black}
