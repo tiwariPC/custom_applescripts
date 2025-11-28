@@ -1,4 +1,3 @@
-
 ## Use Automator app to create a Quick Action.
 ## ## Workflow receives no input in {any application}
 ## Input is entire selection Output replaces selected text
